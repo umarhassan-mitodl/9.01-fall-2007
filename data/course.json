@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "920c2be4-d5f5-1276-6277-3b8f4c3dc0ab",
+  "instructors": {
+    "content": [
+      "585f5a89-4d71-ab83-a20f-e02b1b4e86b6",
+      "5495d010-5847-b8a1-2542-edb7a456bbed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "29eda4c6-5c28-0528-6068-412b63b2ad5b",
+    "website": "9-01-introduction-to-neuroscience-fall-2007"
+  },
+  "course_title": "Introduction to Neuroscience",
+  "course_description": "This course is an introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain. Topics include the function of nerve cells, sensory systems, control of movement, learning and memory, and diseases of the brain.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.01",
+  "course_image_thumbnail": {
+    "content": "bf103e73-788d-6a0a-93e7-3889de160460",
+    "website": "9-01-introduction-to-neuroscience-fall-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "3cfbb2b5-711f-4a60-bf51-3226c1e0520a",
+  "site_short_id": "9.01-fall-2007",
+  "site_url_path": "courses/9-01-introduction-to-neuroscience-fall-2007",
+  "title": "Course Metadata"
+}
