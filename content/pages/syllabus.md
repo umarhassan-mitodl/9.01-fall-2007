@@ -29,7 +29,7 @@ This course begins with the study of nerve cells: their structure, the propagati
 Textbook
 --------
 
-Bear, Mark F., Barry W. Connors, and Michael A. Paradiso. _Neuroscience: Exploring the Brain_, 3rd ed. Baltimore, MD: Lippincott Williams & Wilkins, 2006. ISBN: 9780781760034. \[{{% resource_link "68f757fd-7288-4314-a66c-cb64e52c42d0" "Preview" %}} in Google Books.\]
+Bear, Mark F., Barry W. Connors, and Michael A. Paradiso. _Neuroscience: Exploring the Brain_, 3rd ed. Baltimore, MD: Lippincott Williams & Wilkins, 2006. ISBN: 9780781760034. \[[Preview](http://books.google.com/books?id=75NgwLzueikC&pg=PAfrontcover) in Google Books.\]
 
 **It will be assumed by the lecturers that you have read the assigned readings before class, and you will be examined on material covered in the reading assignments.** Warning: the reading assignments are substantial; do not put them off until just prior to an exam!
 
