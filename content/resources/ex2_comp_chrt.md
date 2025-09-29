@@ -5,6 +5,8 @@ description: Review materials on vision, audition, olfaction, and gustation for 
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/e8842f30b3a85503cf8f22174423599d_ex2_comp_chrt.pdf
 file_size: 42215
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

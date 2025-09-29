@@ -6,6 +6,8 @@ description: "Review materials for an exam on neuroscience. Topics include chemi
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/6d65403d1e254cba43e894a57b9ae309_9_01_final_rev.pdf
 file_size: 335693
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

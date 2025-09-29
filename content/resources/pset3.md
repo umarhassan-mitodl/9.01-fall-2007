@@ -6,6 +6,8 @@ description: Problem set on neural network models of memory, the McCulloch-Pitts
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/77600741adc3d76a8330709757929578_pset3.pdf
 file_size: 169463
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

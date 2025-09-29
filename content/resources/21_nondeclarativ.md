@@ -5,6 +5,8 @@ description: Lecture notes on learning and memory, working memory, short-term me
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/213b76154caafa7c197030c08e5bca33_21_nondeclarativ.pdf
 file_size: 350134
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

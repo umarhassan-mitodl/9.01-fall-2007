@@ -10,6 +10,8 @@ description: Lecture notes on declarative memory, temporal lobe epilepsy, bilate
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/486d67fe991c0d6a3836601480b456f0_19_declarative.pdf
 file_size: 1661455
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
