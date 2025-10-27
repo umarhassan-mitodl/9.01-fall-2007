@@ -5,8 +5,6 @@ description: Lecture notes on neural systems, vision, illusions, reflectance, li
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/e16c00eec1cc935f93dd94f47b95b67e_10_vision2.pdf
 file_size: 793412
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -24,7 +24,6 @@
     "website": "9-01-introduction-to-neuroscience-fall-2007"
   },
   "course_title": "Introduction to Neuroscience",
-  "hide_download": true,
   "course_description": "This course is an introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain. Topics include the function of nerve cells, sensory systems, control of movement, learning and memory, and diseases of the brain.\n",
   "department_numbers": [
     "9"
@@ -35,7 +34,6 @@
     "content": "bf103e73-788d-6a0a-93e7-3889de160460",
     "website": "9-01-introduction-to-neuroscience-fall-2007"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

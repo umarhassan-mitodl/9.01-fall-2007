@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of readings by lecture session and
   information on the course textbook.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +12,7 @@ uid: 2a001f27-f516-915c-ba3a-8dae762488ab
 Textbook
 --------
 
-Bear, Mark F., Barry W. Connors, and Michael A. _Neuroscience: Exploring the Brain_. 3rd ed. Baltimore, MD: Lippincott Williams & Wilkins, 2006. ISBN: 9780781760034. \[[Preview](http://books.google.com/books?id=75NgwLzueikC&pg=PAfrontcover) in Google Books.\]
+Bear, Mark F., Barry W. Connors, and Michael A. _Neuroscience: Exploring the Brain_. 3rd ed. Baltimore, MD: Lippincott Williams & Wilkins, 2006. ISBN: 9780781760034. \[{{% resource_link "78fbb2d9-ca12-4f6f-bd13-c448c0c5699d" "Preview" %}} in Google Books.\]
 
 **It will be assumed by the lecturers that you have read the assigned readings before class, and you will be examined on material covered in the reading assignments.** Warning: the reading assignments are substantial; do not put them off until just prior to an exam!
 

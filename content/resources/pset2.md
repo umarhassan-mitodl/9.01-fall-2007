@@ -5,8 +5,6 @@ description: "Problem set on the visual system, bipolar cell responses, the cent
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/ea8c0809d42922d2430731bc6bfcf04f_pset2.pdf
 file_size: 423764
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

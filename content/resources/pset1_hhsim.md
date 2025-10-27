@@ -5,8 +5,6 @@ description: Instructions on how to use the computer program HHsim to simulate a
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/1111269231ab7ef0dc1fca1e185ddb0f_pset1_hhsim.pdf
 file_size: 41662
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

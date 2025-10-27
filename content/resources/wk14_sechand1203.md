@@ -5,8 +5,6 @@ description: Recitation notes on mental illness, anxiety disorders, affective di
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/7a1683d2c7820418c8df95c1fe95d0b9_wk14_sechand1203.pdf
 file_size: 56181
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

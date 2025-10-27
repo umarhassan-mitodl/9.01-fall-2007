@@ -9,8 +9,6 @@ description: Lecture presentation on sensory transduction, psychology of taste, 
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/b1d56ee6b5babc1355b5273730ef62d3_13_tastesmell.pdf
 file_size: 253752
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

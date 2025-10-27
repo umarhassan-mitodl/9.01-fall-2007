@@ -10,8 +10,6 @@ description: "Lecture notes on neural systems, motor systems, movement, actin/my
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/35fbc750c2a62f7b0d2d15ccaf34b80a_14_motor1.pdf
 file_size: 307696
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

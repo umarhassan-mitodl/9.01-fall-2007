@@ -6,8 +6,6 @@ description: Problem set on cellular neurophysiology, the action potential, the 
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/f3de43b1b3bc1a943dbcf0f8468b6ece_pset1.pdf
 file_size: 133703
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

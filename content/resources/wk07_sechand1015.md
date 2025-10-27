@@ -6,8 +6,6 @@ description: Recitation notes on the central nervous system, the peripheral nerv
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/ec0a36e0eda2be3545181cd389369664_wk07_sechand1015.pdf
 file_size: 682068
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

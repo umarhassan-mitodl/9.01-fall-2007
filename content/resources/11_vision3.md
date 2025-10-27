@@ -9,8 +9,6 @@ description: Lecture notes on neural systems, vision, complex cells, direction s
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/5e6f0adfa8a0e95470df9b9810a6be06_11_vision3.pdf
 file_size: 622634
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

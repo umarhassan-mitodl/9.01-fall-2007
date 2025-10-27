@@ -9,8 +9,6 @@ description: Lecture notes on neural systems, hearing, anatomy of the ear, the a
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/789180c4f020757dcec75bdab822f590_12_hearing.pdf
 file_size: 666856
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -8,8 +8,6 @@ description: Lecture presentation on attention, selective attention characterize
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/a4f3665f7c98664b835388ff6678f165_20_desimonelec.pdf
 file_size: 4303039
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

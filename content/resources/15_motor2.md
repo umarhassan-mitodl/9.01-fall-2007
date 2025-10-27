@@ -10,8 +10,6 @@ description: "Lecture notes on neural systems, the motor system, movement, supra
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/b81b265b817be0fecfb6d534bbe55588_15_motor2.pdf
 file_size: 435204
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

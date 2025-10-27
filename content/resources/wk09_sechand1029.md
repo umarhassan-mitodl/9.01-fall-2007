@@ -4,8 +4,6 @@ description: Recitation handout on vision, audition, gustation, and olfaction.
 file: /courses/9-01-introduction-to-neuroscience-fall-2007/c0918423f3e0e6f1740736d49b2144d7_wk09_sechand1029.pdf
 file_size: 42204
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
